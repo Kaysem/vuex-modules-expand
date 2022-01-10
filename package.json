@@ -1,6 +1,6 @@
 {
   "name": "vuex-modules-expand",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "这是一个vuex按模块动态加载插件",
   "license": "",
   "repository": "bamblehorse/tiny",
