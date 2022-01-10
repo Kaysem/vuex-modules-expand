@@ -1,8 +1,8 @@
 {
-  "name": "@kaysem/vuex-modules-expand",
-  "version": "0.0.1",
+  "name": "vuex-modules-expand",
+  "version": "0.0.4",
   "description": "这是一个vuex按模块动态加载插件",
-  "license": "MIT",
+  "license": "",
   "repository": "bamblehorse/tiny",
   "main": "index.js",
   "keywords": [
@@ -10,6 +10,7 @@
     "module",
     "npm",
     "package",
-    "kaysem"
+    "kaysem",
+    "registerModule"
   ]
 }
