@@ -19,14 +19,14 @@ npm install vuex-modules-expand
 // main.js
 import { createApp } from "vue"; // 依赖vue (rely on Vue)
 import store from "./store";
-import vuexModule from "./vuexModule-expand"; // vuex按模块需求动态载入(Dynamic loading as required by the module)
+import vuexModuleExpand from "vuex-modules-expand"; // vuex按模块需求动态载入(Dynamic loading as required by the module)
 ```
 
 ## Use
 
 ```javascript
 // main.js
-app.use(vuexModule);// 注册插件(To register the plugin)
+app.use(vuexModuleExpand);// 注册插件(To register the plugin)
 ```
 
 ## Vue
